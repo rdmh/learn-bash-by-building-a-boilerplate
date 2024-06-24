@@ -278,3 +278,4 @@ echo from the command line >> README.md
 cd /workspace/project/website
 more README.md
 echo for the freeCodeCamp bash lessons >> README.md
+more README.md
