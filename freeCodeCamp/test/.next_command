@@ -225,3 +225,4 @@ touch background.jpg
 cd ../../..
 cd /workspace/project/website
 cd images
+ls --color=auto
