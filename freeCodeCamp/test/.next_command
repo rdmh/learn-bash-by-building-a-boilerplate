@@ -173,3 +173,4 @@ cd ..
 ls --color=auto
 rm background.jp
 rm background.jpg
+ls --color=auto
