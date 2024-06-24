@@ -220,3 +220,4 @@ mkdir assets
 cd assets
 mkdir assets
 mkdir images
+cd images
