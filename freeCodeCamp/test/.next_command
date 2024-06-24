@@ -244,3 +244,4 @@ cd /workspace/project/website
 cd /workspace/project/website
 rmdir images
 ls --color=auto
+mkdir client/assets/icons
