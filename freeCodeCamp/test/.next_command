@@ -221,3 +221,4 @@ cd assets
 mkdir assets
 mkdir images
 cd images
+touch background.jpg
