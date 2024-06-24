@@ -223,3 +223,5 @@ mkdir images
 cd images
 touch background.jpg
 cd ../../..
+cd /workspace/project/website
+cd images
